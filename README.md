@@ -1,34 +1,33 @@
-# 🏢 Real Estate
+# Real Estate
 
 ![image 1](https://github.com/VictorBravim/RealEstate/assets/122113588/f019aec3-dd38-4e3d-af31-ff1552426fd2)
 
+## <code>Introdução</code>
 
-## 🚀 Overview
+Este projeto é uma plataforma imobiliária onde os usuários podem navegar por diversos imóveis, visualizar informações detalhadas sobre cada imóvel e filtrar os imóveis de acordo com suas preferências. Possui um design responsivo usando Bootstrap e CSS customizado.
 
-This project is a real estate platform where users can browse through various properties, view detailed information about each property, and filter properties based on their preferences. It features a responsive design using Bootstrap and custom CSS.
-
-## 📋 Requirements
+## <code>Pré-requisitos</code>
 
 - Node.js (version 14 or higher)
 - npm (Node Package Manager)
 - Bootstrap (5)
 - React-Icons
 
-## 🔧 Installation
+## <code>Configuração</code>
 
-1. Clone the repository:
+1. Clone este repositório:
 
 ```
 git clone https://github.com/VictorBravim/RealEstate.git
 ```
 
-2. Navigate to the project directory:
+2. Navegue até o diretório do projeto:
 
 ```
 cd RealEstate
 ```
 
-3. Install the dependencies:
+3. Instale dependências:
 
 ```
 npm install
@@ -36,22 +35,22 @@ or
 yarn install
 ```
 
-4. Run the development server:
+4. Execute o servidor de desenvolvimento:
 
 ```
 npm run dev
 ```
 
-## 🛠️ Project Structure
+## <code>Estrutura</code>
 
-- Nav: Navigation component displayed at the top of all pages.
-- Hero: Hero component featured on the main page.
-- Filter: Component to filter properties by category and transaction type.
-- Propriedades: Component that lists available properties.
-- Footer: Footer component displayed at the bottom of the page.
-- Loader: Loading component displayed while data is being fetched.
-- Casa: Page displaying detailed information about a specific property.
+- Nav: Componente de navegação exibido no topo de todas as páginas.
+- Hero: componente Herói apresentado na página principal.
+- Filter: Componente para filtrar propriedades por categoria e tipo de transação.
+- Propriedades: Componente que lista as propriedades disponíveis.
+- Footer: componente de rodapé exibido na parte inferior da página.
+- Loader: Componente de carregamento exibido enquanto os dados estão sendo buscados.
+- Home: Página com informações detalhadas sobre um determinado imóvel.
 
-## 📄 License
+## <code>Licença</code>
 
-- This project is licensed under the [MIT License](LICENSE).
+- Este projeto está licenciado sob a [Licença MIT](LICENSE).
